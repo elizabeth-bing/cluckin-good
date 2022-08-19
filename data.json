@@ -1,0 +1,186 @@
+{
+  "chicks": [
+    {
+      "id": 1,
+      "name": "Elizabeth",
+      "location": "Wellington",
+      "image": "/images/chick1.png",
+      "status": "I'm not a nugget!!"
+    },
+    {
+      "id": 2,
+      "name": "Bleu",
+      "location": "Ōtautahi",
+      "image": "/images/chick2.png",
+      "status": "I'm a person."
+    },
+    {
+      "id": 3,
+      "name": "Ramesh",
+      "location": "Gisborne",
+      "image": "/images/chick3.png",
+      "status": "I think I am a soldier"
+    },
+    {
+      "id": 4,
+      "name": "Ling",
+      "location": "Pōneke",
+      "image": "/images/chick4.png",
+      "status": "Labrador"
+    },
+    {
+      "id": 5,
+      "name": "Gerard",
+      "location": "Wellington",
+      "image": "/images/chick5.png",
+      "status": "Let me serenade you"
+    },
+    {
+      "id": 6,
+      "name": "Hammerchick",
+      "location": "Your garage",
+      "image": "/images/chick6.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 7,
+      "name": "Magic Mike",
+      "location": "Micky Ds",
+      "image": "/images/chick7.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 8,
+      "name": "Fake chicken",
+      "location": "Micky Ds",
+      "image": "/images/chick8.png",
+      "status": "I'm a real chicken"
+    },
+    {
+      "id": 9,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick9.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 10,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick10.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 11,
+      "name": "Elvis P",
+      "location": "Micky Ds",
+      "image": "/images/chick11.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 12,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick12.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 13,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick13.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 14,
+      "name": "luscious locks",
+      "location": "Micky Ds",
+      "image": "/images/chick14.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 15,
+      "name": "REBL",
+      "location": "Micky Ds",
+      "image": "/images/chick15.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 16,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick16.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 17,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick17.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 18,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick18.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 19,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick19.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 20,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick20.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 21,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick21.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 22,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick22.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 23,
+      "name": "Nuggies",
+      "location": "Micky Ds",
+      "image": "/images/chick23.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 24,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick24.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 25,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick25.png",
+      "status": "Chicken invasion!"
+    },
+    {
+      "id": 26,
+      "name": "Your name here",
+      "location": "Micky Ds",
+      "image": "/images/chick23.png",
+      "status": "Chicken invasion!"
+    }
+  ]
+}

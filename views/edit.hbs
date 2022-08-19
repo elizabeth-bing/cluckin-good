@@ -1,0 +1,21 @@
+<form class="form" action="/chicks/{{id}}/edit" method="post">
+  <img class="img-circle" src="{{image}}" alt="{{name}}">
+  <label for="name" class="form-item">
+    Name:
+    <input type="text" name="name" value="{{name}}">
+  </label>
+  
+  <label for="location" class="form-item">
+    Location:
+    <input type="text" name="location" value="{{location}}">
+  </label>
+  
+  <label for="status" class="form-item">
+    Status:
+    <input type="text" name="status" value="{{status}}">
+  </label>
+  
+  <input type="hidden" name="image" value="{{image}}">
+  
+  <input type="submit" name="submit" value="Submit">
+</form>

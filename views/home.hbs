@@ -1,0 +1,12 @@
+<div class="container">
+  {{#each chicks}}
+  <div class="chick-list">
+    <a href="/chicks/{{id}}"><img class="img-circle" src="{{image}}" alt="{{name}}"></a>
+    <div class ="chick-info">
+    <p><span class="bolder">Name:</span> <span class="info">{{name}}</span></p>
+    <p><span class="bolder">I am here:</span> <span class="info">{{location}}</span></p>
+    <p><span class="bolder">Status:</span> <span class="info">{{status}}</span></p>
+    </div>
+  </div>
+  {{/each}}
+</div>

@@ -1,0 +1,99 @@
+
+h1 {
+  background-color: #40276e;
+  color: white;
+  text-align: center;
+}
+
+
+header {
+  background-color: #40276e;
+}
+
+body {
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.info{
+
+  font-family: 'DynaPuff', cursive;
+  
+}
+
+.chick-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  border: #dac9fa solid 1px;
+  background-color: #e7ddfa;
+  border-radius: 5%;
+  box-shadow: #40276e 5px 5px;
+}
+
+.puppy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
+.img-circle {
+  border-radius: 25%;
+  object-fit: cover;
+  width: 170px;
+  height: 170px;
+  padding: 30px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+  text-align: right;
+  color: white;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.chick-info{
+  text-align: center;
+}
+
+.bolder {
+  font-size: 14px;
+}
+
+.chicks{
+  margin: auto;
+  text-align: center;
+
+}
+
+.edit{
+  background-color: #40276e;
+  color: white;
+  padding: 0 5px;
+  border-radius: 5px;
+}
